@@ -27,6 +27,8 @@ theme:
 
   features:
      - search.highlight
+     - content.code.copy
+
 
   markdown_extensions:
     - def_list
@@ -41,7 +43,11 @@ nav:
   - What to expect?: what-to-expect.md
   - Curriculum: curriculum.md
 #  - Fundamentals: fundamental.md
-#    - Week 1: week-1.md
-  - Week 1: week-1.md
+  - Week 1:
+    - Day 1: week 1/week1day1.md
+    - Day 2: week 1/week1day2.md
+    - Day 3: week 1/week1day3.md
+    - Day 4: week 1/week1day4.md
+    - Day 5: week 1/week1day5.md
 
 
