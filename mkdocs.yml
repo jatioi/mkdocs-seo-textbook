@@ -28,6 +28,7 @@ theme:
   features:
      - search.highlight
      - content.code.copy
+     - content.tabs.link
 
 
   markdown_extensions:
@@ -35,6 +36,11 @@ theme:
     - pymdownx.tasklist:
         custom_checkbox: true
     - tables
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+          alternate_style: true
+
+
 
 
 nav:
@@ -44,10 +50,10 @@ nav:
   - Curriculum: curriculum.md
 #  - Fundamentals: fundamental.md
   - Week 1:
-    - Day 1: week 1/week1day1.md
-    - Day 2: week 1/week1day2.md
-    - Day 3: week 1/week1day3.md
-    - Day 4: week 1/week1day4.md
-    - Day 5: week 1/week1day5.md
+    - Day 1 What is SEO?: week_1/week1day1.md
+    - Day 2 Search Engine: week_1/week1day2.md
+    - Day 3 Ahrefs: week_1/week1day3.md
+    - Day 4: week_1/week1day4.md
+    - Day 5: week_1/week1day5.md
 
 
