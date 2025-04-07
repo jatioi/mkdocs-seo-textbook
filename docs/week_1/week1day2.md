@@ -4,7 +4,7 @@ Search engines like Google, Bing, and Yahoo help users find relevant information
 
 ## **How Search Engines Work**
 
-![Search Engine](/images/week_2/HowSearchEngineWork.jpg)
+![Search Engine](/images/week_1/HowSearchEngineWork.jpg)
 
 ## **3 ways how search engine works:**
 
@@ -23,14 +23,14 @@ Crawling is essential because it enables search engines to understand your websi
 ### **Indexing**
 Indexing is the process where search engines like Google store and organize web pages after crawling them. Once a page is indexed it can appear in search engine result pages, The primary goal of indexing is to ensure that a website’s content can appear in search results when users search for relevant keywords. If a page is not indexed, it won’t appear in search results.
 
-![indexing](/images/week_2/Indexing.jpg)
+![indexing](/images/week_1/Indexing.jpg)
 
 ### **Ranking** 
 "Ranking" is the process of arranging website links, items, people, or entities in a specific order based on a set of criteria, such as quality, performance, importance, or preference. It indicates relative positions, such as first, second, third, etc.
 
 When a user searches for something, search engines rank the indexed pages based on relevance and quality. 
 
-![ranking](/images/week_2/ranking.jpg)
+![ranking](/images/week_1/ranking.jpg)
 
 ## **Google’s algorithm considers 200+ ranking factors**
 
@@ -44,7 +44,7 @@ Freshness – Is the content recent and updated?
 ### Why its important?
 Staying updated with Google’s algorithm changes helps SEO professionals and website owners optimize content and avoid penalties, ensuring better rankings and visibility. 
 
-![importance](/images/week_2/importance.jpg)
+![importance](/images/week_1/importance.jpg)
 
 ## **Understanding User Intent in SEO**
 User intent, also known as search intent, refers to the reason behind a user’s search query. Understanding user intent is crucial for SEO because Google prioritizes pages that best match what users are looking for. It describes what the user wants to achieve from the search.
