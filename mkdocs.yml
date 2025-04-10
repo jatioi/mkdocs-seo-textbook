@@ -33,6 +33,7 @@ theme:
 
   markdown_extensions:
     - def_list
+    - sane_lists
     - pymdownx.tasklist:
         custom_checkbox: true
     - tables
@@ -56,7 +57,9 @@ nav:
     - Keyword Research: week_1/week1day4.md
     - Competitor Analysis & Keyword Strategy: week_1/week1day5.md
   - Week 2:
-      - On-page SEO: week_2/week2day2.md
+      - On-page SEO: week_2/week2day1.md
+      - Write and Optimized a Content: week_2/week2day2.md
+
 
 
 
