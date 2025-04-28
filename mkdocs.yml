@@ -40,6 +40,10 @@ theme:
     - pymdownx.superfences
     - pymdownx.tabbed:
           alternate_style: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - md_in_html
 
 
 
@@ -74,6 +78,12 @@ nav:
       - Social Media Signals: week_4/week4day3.md
       - Influencer Outreach: week_4/week4day4.md
       - Optimizing for Local Search: week_4/week4day5.md
+  - Week 5:
+      - Key Metrics to Track: week_5/week5day1.md
+      - Analyzing Traffic and Ranking: week_5/week5day2.md
+      - Continuous Improvement Strategies for SEO Success: week_5/week5day3.md
+      - Continuous Promotion Strategies: week_5/week5day4.md
+
 
 
 
