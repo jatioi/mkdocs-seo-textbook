@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Source Code Variable';
+  src: url('fonts/SauceCodeProNerdFontComplete.ttf') format('truetype'); /* Adjust the filename and format */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('fonts/Rubik-Regular.ttf') format('truetype'); /* Adjust the filename and format */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Source Code Variable', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik', sans-serif;
+}
