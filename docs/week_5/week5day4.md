@@ -1,10 +1,15 @@
-# Continuous Promotion Strategies
+# **Continuous Promotion Strategies**
 
 Promoting your content consistently is essential for maintaining visibility, driving traffic, and improving engagement. A well-executed promotional strategy ensures your brand remains relevant and continuously attracts new audiences. Here's how to do it effectively:
 
-## Social Media Marketing
+![Continuous Promotion Strategies](/images/week_5/Continuous Promotion Strategies.jpg)
+
+
+## **Social Media Marketing**
 
 Social media platforms are powerful tools for increasing brand awareness, driving traffic, and engaging with your audience.
+
+![Social Media Marketing](/images/week_5/Social Media Marketing22.jpg)
 
 ### Platform Selection
 Choose the right platforms based on your target audience (e.g., LinkedIn for B2B, Instagram for visuals, Twitter for real-time updates).
