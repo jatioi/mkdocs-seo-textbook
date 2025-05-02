@@ -4,8 +4,8 @@
 Keywords are words or phrases that people type into search engines to find information. They are the foundation of SEO, helping websites rank on search engines like Google.
 
 ### **Example Keywords**
-- Short-Tail Keyword: “Shoes” (Broad, high competition)
-- Long-Tail Keyword: “Best running shoes for beginners” (Specific, lower competition).
+- Short-Tail Keyword: "Shoes" (Broad, high competition)
+- Long-Tail Keyword: "Best running shoes for beginners" (Specific, lower competition).
 
 ## **Role of Keywords in SEO**
 
@@ -23,7 +23,7 @@ Keywords are the backbone of SEO, and understanding the difference between short
 
 **Definition:** Short-tail keywords are **1-2 word phrases** that are broad and general.
 
-**Example:** “Shoes,” “SEO tips,” “Digital marketing”
+**Example:** "Shoes," "SEO tips," "Digital marketing"
 
 ### **Pros of Short-Tail Keywords:**
 **High Search Volume –** Attracts a large number of searches.
@@ -33,7 +33,7 @@ Keywords are the backbone of SEO, and understanding the difference between short
 **Competitive Advantage –** Ranking well can drive significant traffic.
 ### **Cons of Short-Tail Keywords:**
 
- **High Competition** – Harder to rank on Google’s first page due to competition.
+ **High Competition** – Harder to rank on Google's first page due to competition.
 
  **Low Conversion Rate** – Broad intent; users may not be ready to take action.
 
@@ -42,7 +42,7 @@ Keywords are the backbone of SEO, and understanding the difference between short
 
 ## **Long-Tail Keywords (Specific & Intent-Based)**
 **Definition:** Long-tail keywords are 3 or more words that are more specific and targeted.
-**Example:** “Best running shoes for flat feet,” “SEO tips for small businesses”
+**Example:** "Best running shoes for flat feet," "SEO tips for small businesses"
 
 ### **Pros of Long-Tail Keywords:**
  **Low Competition –** Easier to rank on Google.
@@ -64,8 +64,8 @@ The keyword should align with user intent (what people are looking for).
 
 **Example**:
 
-- If you sell fitness equipment, a relevant keyword is “best home gym equipment” instead of just “equipment” (which is too broad).
-- If you write a blog about SEO, “SEO tips for beginners” is better than just “SEO”.
+- If you sell fitness equipment, a relevant keyword is "best home gym equipment" instead of just "equipment" (which is too broad).
+- If you write a blog about SEO, "SEO tips for beginners" is better than just "SEO".
 
 ### **2. Search Volume – Are People Searching for This Keyword?**
 Search volume tells you how many people look for a keyword every month.
@@ -74,8 +74,8 @@ Avoid keywords with zero or very low searches (no one is searching for them).
 
  **Example**
 
-- High Search Volume Keyword: “Best running shoes” (100,000+ searches/month)
-- Low Search Volume Keyword: “Best pink and white running shoes with extra foam” (Too specific, fewer searches)
+- High Search Volume Keyword: "Best running shoes" (100,000+ searches/month)
+- Low Search Volume Keyword: "Best pink and white running shoes with extra foam" (Too specific, fewer searches)
 
 ### **3. Competition – How Hard Is It to Rank?**
 Some keywords are very competitive (big brands dominate).
@@ -84,28 +84,28 @@ Balance high and low competition keywords for a strong SEO strategy.
 
  **Example**
 
-- High-Competition Keyword: “Best laptops” (Hard to rank because of big brands like Apple, Dell, HP)
-- Low-Competition Keyword: “Best laptops for college students under $700” (Easier to rank because it’s more specific).
+- High-Competition Keyword: "Best laptops" (Hard to rank because of big brands like Apple, Dell, HP)
+- Low-Competition Keyword: "Best laptops for college students under $700" (Easier to rank because it's more specific).
 
 ## **How to Find the Best Keywords?**	
 
 #### **Step 1: Brainstorm Keywords**
 Think about what your customers search for.
-Use Google Autocomplete & “People Also Ask” to find keyword ideas.
+Use Google Autocomplete & "People Also Ask" to find keyword ideas.
 
-![Brainstorm Keywords](/images/week_1/Brainstorm Keywords.png)
+![Brainstorm Keywords](../images/week_1/Brainstorm Keywords.png)
 
 
 #### **Step 2: Check Search Volume & Competition**
 - Use tools like Google Keyword Planner, Ahrefs, SEMrush, or Ubersuggest.
 - Find a balance between high-volume + low-competition keywords.
 
-![Check Search Volume & Competition](/images/week_1/Check Search Volume & Competition.png)
+![Check Search Volume & Competition](../images/week_1/Check Search Volume & Competition.png)
 
 
 #### **Step 3: Focus on User Intent**
-- Informational Keywords: “How to lose weight” (People want information).
-- Transactional Keywords: “Buy running shoes online” (People are ready to buy).
+- Informational Keywords: "How to lose weight" (People want information).
+- Transactional Keywords: "Buy running shoes online" (People are ready to buy).
 
 
 

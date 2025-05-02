@@ -61,7 +61,7 @@ Example: `https://www.example.com`
 - `.com` = TLD
 
 
-![Components of a domain name](/images/week_3/Components of a Domain Name.jpg)
+![Components of a Domain Name](../images/week_3/Components of a Domain Name.jpg)
 
 ### Top-Level Domains (TLDs)
 
@@ -83,7 +83,7 @@ A domain name is usually seen in the address bar of a web browser when visiting 
 
 Hosting (Web Hosting) is a service that allows websites to be stored and accessed on the internet. It provides the necessary resources—such as servers, bandwidth, and storage space—to keep a website online and available to users.
 
-![What is hosting](/images/week_3/What is Hosting_.jpg)
+![What is hosting](../images/week_3/What is Hosting_.jpg)
 
 
 ### Real-Life Example of Web Hosting
@@ -102,7 +102,7 @@ Web hosting is like renting a space for your store in a shopping mall:
 - **Hosting Plan = Store Size & Features**  
   If you expect high traffic (many visitors), you need a bigger hosting plan, just like a busy store needs more space or staff.
 
-![Hosting plan](/images/week_3/Hosting Plan = Store Size & Features.jpg)
+![Hosting plan](../images/week_3/Hosting Plan = Store Size & Features.jpg)
 
 
 ## Things to Consider When Buying a Domain
@@ -122,7 +122,7 @@ Purchasing a domain is an essential step in building your online presence. Here 
 
 WordPress is the most popular content management system (CMS) used to build and manage websites. It powers over 43% of all websites on the internet. WordPress allows users to create websites without coding, making it ideal for beginners and professionals.
 
-![What is WordPress](/images/week_3/What is WordPress_.jpg)
+![What is WordPress](../images/week_3/What is WordPress_.jpg)
 
 ### Key Features of WordPress
 
@@ -169,32 +169,32 @@ Most hosting providers have 1-click WordPress installation:
 
 * **Go to Admin site** `domain.com/wp-admin`
 
-![domain](/images/week_3/Please enter your domain.jpg)
+![Please enter your domain](../images/week_3/Please enter your domain.jpg)
 
 * **Set Up Permalinks**
 	Navigate to: Settings > Permalink > Select "Post name"
 
-![Setting Permalink](/images/week_3/Settings _ Permalink _ Postname.jpg)
+![Settings _ Permalink _ Postname](../images/week_3/Settings _ Permalink _ Postname.jpg)
 
 * **Configure Reading Settings**  
    Go to: Settings > Reading > Select "Static page" (if you don't have a blog post, don't select this)
 
-![Reading & Select static](/images/week_3/Settings _ Reading _ select Static page.jpg)
+![Settings _ Reading _ select Static page](../images/week_3/Settings _ Reading _ select Static page.jpg)
 
 
 * **Install SEO Plugin**  
    Go to: Plugins >  Search for "Rank Math"
 
-![installing Plugin](/images/week_3/Go to plugin install rank math.jpg)
+![Go to plugin install rank math](../images/week_3/Go to plugin install rank math.jpg)
 
 
 * **Choose a Theme**  
    Go to: Appearance > Themes > Add New > Search for "Astra"
 
-![Theme](/images/week_3/Template _ Add Themes.jpg)
+![Template _ Add Themes](../images/week_3/Template _ Add Themes.jpg)
 
 
 * **Add Content Pages**  
    Navigate to Pages section to add and edit your content
 
-![domain](/images/week_3/AddContentPage.jpg)
+![AddContentPage](../images/week_3/AddContentPage.jpg)

@@ -1,4 +1,3 @@
-
 # SEO Tracking with Excel
 
 ## **Why Use an Excel Sheet for URL Tracking?**
@@ -26,8 +25,8 @@ Tracking URLs in an Excel or Google Sheet helps organize SEO data, track changes
 
 ## How to Set Excel 
 
-![Setting Up Excel](/images/week_3/How to Set up Excel.jpg)
-![SEt up excel](/images/week_3/Set up Excel.jpg)
+![How to Set up Excel](../images/week_3/How to Set up Excel.jpg)
+![Set up Excel](../images/week_3/Set up Excel.jpg)
 
 
 
@@ -36,7 +35,7 @@ Tracking URLs in an Excel or Google Sheet helps organize SEO data, track changes
 ### What is SEMrush?
 SEMrush is one of the most popular SEO and digital marketing tools, offering powerful features for keyword research, competitor analysis, backlink tracking, and more.
 
-![Semrush](/images/week_3/What is semrush .jpg)
+![What is semrush](../images/week_3/What is semrush .jpg)
 
 ## **Key Features and Advantages**
 
@@ -94,4 +93,4 @@ SEMrush is one of the most popular SEO and digital marketing tools, offering pow
 
 - **Not ideal for**: Beginners, small businesses, or those on a tight budget
 
-![Semrush Review](/images/week_3/Semrush is Worth-it.jpg)
+![Semrush is Worth-it](../images/week_3/Semrush is Worth-it.jpg)

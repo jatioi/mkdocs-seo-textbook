@@ -10,7 +10,7 @@
 
 **Why It Matters:** Higher organic traffic means better SEO performance and rankings.
 
-![Traffic](/images/week_1/Traffic(Organic Traffic).jpg)
+![Traffic(Organic Traffic)](../images/week_1/Traffic(Organic Traffic).jpg)
 
 ## DR (Domain Ratings)
 
@@ -23,7 +23,7 @@ A metric (0-100) that shows the strength of a website.
 **Why It Matters**: Higher DR = **Better authority** and **higher ranking potential.**
 **Example**:
 
-![Traffic](/images/week_1/DR(Domain Ratings).jpg)
+![DR(Domain Ratings)](../images/week_1/DR(Domain Ratings).jpg)
 
 Amazon.com has a DR of 96, meaning it has a very strong backlink profile.
 A new blog website might have a DR of 10, meaning it has a weak backlink profile.
@@ -33,7 +33,7 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 
 ## SV (Search Volume)
 
-![Traffic](/images/week_1/SV(Search Volume).jpg)
+![Traffic(Search Volume)](../images/week_1/SV(Search Volume).jpg)
 
 **Definition**: The estimated number of times a keyword is searched per month.
 
@@ -44,7 +44,7 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 
 ## KD (Keyword Difficulty)
 
-![Traffic](/images/week_1/KD(Keyword Difficulty).jpg)
+![Traffic(Keyword Difficulty)](../images/week_1/KD(Keyword Difficulty).jpg)
 
 **Definition**: is a metric that indicates how hard it is to rank for a specific keyword in search engine results (SERPs). It is usually measured on a scale from 0 to 100, with higher numbers meaning greater difficulty.
 
@@ -57,7 +57,7 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 
 ## UR (URL Rating)
 
-![Traffic](/images/week_1/UR(URL Rating).jpg)
+![Traffic(URL Rating)](../images/week_1/UR(URL Rating).jpg)
 
 **Definition**: A score (0-100) that measures the strength of a specific webpage.
 
@@ -71,7 +71,7 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 
 ## Referring Domains (RD)
 
-![Traffic](/images/week_1/Referring Domains(RD).jpg)
+![Traffic(Referring Domains)](../images/week_1/Referring Domains(RD).jpg)
 
 **Definition**: A referring domain is a unique website that contains one or more backlinks pointing to another website. It represents the number of different websites linking to your site, rather than the total number of backlinks.
 
@@ -81,7 +81,7 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 
 ## Backlinks
 
-![Traffic](/images/week_1/Backlinks.jpg)
+![Traffic(Backlinks)](../images/week_1/Backlinks.jpg)
 
 **Definition**: The number of incoming links from other websites to yours.
 
@@ -91,10 +91,10 @@ A new blog website might have a DR of 10, meaning it has a weak backlink profile
 | Term                    | Meaning                                                                   |
 |-------------------------|---------------------------------------------------------------------------|
 | `DA (Domain Authority) ` | Estimated organic visitors per month                                      | 
-| `Traffic`               | Moz’s ranking score (0-100) predicting a website’s ranking ability.       |
+| `Traffic`               | Moz's ranking score (0-100) predicting a website's ranking ability.       |
 | `SV (Search Volume)`    | Improving site performance                                                |
 |` KD (Keyword Difficulty)`| Number of searches for a keyword per month                                |
-|   `UR (URL Rating) ` | Strength of a specific page’s backlink profile.                           |
+|   `UR (URL Rating) ` | Strength of a specific page's backlink profile.                           |
 |  ` Referring Domains `  | The number of unique websites linking to a domain/page.                   |
 |    `Backlinks `   | The number of inbound links to a site/page.                               |
 

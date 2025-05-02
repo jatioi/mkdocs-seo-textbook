@@ -7,7 +7,7 @@ Social media plays an increasingly important role in search engine optimization,
 
 **Social media signals** refer to the **engagement and interactions** a website receives on social media platforms like **Facebook, Twitter, LinkedIn, Instagram, and Pinterest**. These include:
 
-![Signals](/images/week_4/Social media signals.jpg)
+![Social media signals](../images/week_4/Social media signals.jpg)
 
 - Shares
 - Likes & Reactions
@@ -80,7 +80,7 @@ While **social media signals are not a direct ranking factor in Google's algorit
 
 ### Facebook
 
-![fb](/images/week_4/Facebook.jpg)
+![Facebook](../images/week_4/Facebook.jpg)
 
 
 - Best for brand engagement & community building
@@ -89,7 +89,7 @@ While **social media signals are not a direct ranking factor in Google's algorit
 
 ### LinkedIn
 
-![linkedin](/images/week_4/LinkedIn.jpg)
+![LinkedIn](../images/week_4/LinkedIn.jpg)
 
 
 - B2B networking & professional content sharing
@@ -98,7 +98,7 @@ While **social media signals are not a direct ranking factor in Google's algorit
 
 ### Instagram
 
-![Ig](/images/week_4/Instagram .jpg)
+![Instagram](../images/week_4/Instagram .jpg)
 
 
 - Visual content & influencer marketing
@@ -107,7 +107,7 @@ While **social media signals are not a direct ranking factor in Google's algorit
 
 ### Pinterest
 
-![Pinterest](/images/week_4/Pinterest .jpg)
+![Pinterest](../images/week_4/Pinterest .jpg)
 
 
 - Best for **e-commerce & evergreen content**

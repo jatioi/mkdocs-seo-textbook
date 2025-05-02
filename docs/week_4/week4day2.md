@@ -3,7 +3,7 @@
 ## Introduction
 A strong backlink strategy is essential for improving your website's authority, rankings, and organic traffic. High-quality backlinks act as "votes of confidence" from other websites, signaling to search engines that your content is valuable. However, not all backlinks are created equal, and a well-planned approach ensures you attract authoritative, relevant, and beneficial links.
 
-![Backlink Strategy](/images/week_4/Backlink Strategy for SEO .jpg)
+![Backlink Strategy for SEO](../images/week_4/Backlink Strategy for SEO .jpg)
 
 ## Step 1: Understand the Types of Backlinks
 

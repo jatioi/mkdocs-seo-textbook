@@ -6,7 +6,7 @@ Tracking the right metrics is essential for understanding how well your website 
 
 Organic traffic refers to the number of visitors who land on your website through search engines like Google, Bing, and Yahoo, without paid advertisements. It is a key indicator of your SEO success and shows how well your content ranks for relevant search queries.
 
-![Organic Traffic](/images/week_5/Organic Traffic.jpg)
+![Organic Traffic](../images/week_5/Organic Traffic.jpg)
 
 ### Why we need to track the Organic traffic:
 
@@ -25,7 +25,7 @@ Organic traffic refers to the number of visitors who land on your website throug
 
 This metric measures the average time a visitor spends on your site during a single session. A longer session duration often indicates engaging content and a positive user experience.
 
-![Average Session Duration](/images/week_5/Average Session Duration.jpg)
+![Average Session Duration](../images/week_5/Average Session Duration.jpg)
 
 
 ### Why we need to check Average session duration
@@ -47,7 +47,7 @@ This metric measures the average time a visitor spends on your site during a sin
 
 Bounce rate is the percentage of visitors who leave your website after viewing only one page without interacting further. A high bounce rate may indicate issues with content relevance, user experience, or page load speed.
 
-![Bounce Rate](/images/week_5/Bounce Rate.jpg)
+![Bounce Rate](../images/week_5/Bounce Rate.jpg)
 
 
 ### Why we need to check bounce rate:
@@ -82,7 +82,7 @@ The conversion rate measures the percentage of visitors who complete a desired a
 
 Keyword rankings track how well your website ranks for specific search terms on search engine results pages (SERPs). Higher rankings increase visibility and bring more organic traffic to your site.
 
-![Keyword Rankings](/images/week_5/Keyword Rankings.jpg)
+![Keyword Rankings](../images/week_5/Keyword Rankings.jpg)
 
 ### Why we need to check keywords ranking
 - Tracking keyword rankings helps you understand how well your website is performing in search engine results. It allows you to see which keywords drive traffic, identify opportunities for improvement, and adjust your SEO strategy.

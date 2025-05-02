@@ -3,7 +3,7 @@
 ### Get the Keyword
 
 - Select a keyword from a provided list or research relevant keywords.
-- Ensure the keyword is relevant to the article’s topic and audience.
+- Ensure the keyword is relevant to the article's topic and audience.
 
 ### Research Using AI and Google
 - Use AI tools like ChatGPT, DeepSeek, Gemini, or Copilot to get ideas about the keyword.
@@ -33,7 +33,7 @@ Screen readers rely on header tags to help visually impaired users navigate cont
 
 A well-structured page encourages longer reading sessions, signaling to Google that the content is valuable.
 
-![Organize Content for better engagement](/images/week_2/Organize Content for Better Engagement.jpg)
+![Organize Content for Better Engagement](../images/week_2/Organize Content for Better Engagement.jpg)
 
 ## **Header Tag** 
 
@@ -59,13 +59,13 @@ A well-structured page encourages longer reading sessions, signaling to Google t
 - Keep the title around 60 characters to optimize for SEO and readability.
 
 #### Example:
-“AI Writing Tips: How to Create SEO-Optimized Content”
- “How to Write an Article Using AI with SEO Optimization in 2024” (Too long)
+"AI Writing Tips: How to Create SEO-Optimized Content"
+ "How to Write an Article Using AI with SEO Optimization in 2024" (Too long)
 
 ### **Write the Introduction**
 - Introduce the topic clearly.
 - Naturally insert the main keyword and website keyword (if applicable).
-- Keep the introduction concise but informative to explain the article’s content.
+- Keep the introduction concise but informative to explain the article's content.
 
 ### **Write the Meta Description**
 - Summarize the entire article in about 160 characters.
@@ -102,7 +102,7 @@ A well-structured page encourages longer reading sessions, signaling to Google t
   - Restate the importance of the topic.
   - Provide a final thought or call to action (CTA).
 #### Example:
-  “AI writing tools have transformed content creation. By leveraging ChatGPT, Gemini, or Copilot effectively, you can generate high-quality, SEO-optimized articles. Start exploring AI-powered writing today!”
+  "AI writing tools have transformed content creation. By leveraging ChatGPT, Gemini, or Copilot effectively, you can generate high-quality, SEO-optimized articles. Start exploring AI-powered writing today!"
 
 ### **Final Optimization**
   - Check for keyword usage (at least 1% keyword density)

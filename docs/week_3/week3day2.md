@@ -12,7 +12,7 @@ A logo is a visual symbol that represents a brand, company, or website. It is us
 - Helps users identify your website easily.
 - Builds trust and credibility.
 
-![Logos](/images/week_3/Why is a Logo Important.jpg)
+![Why is a Logo Important](../images/week_3/Why is a Logo Important.jpg)
 
 ### Favicon: Size (40x40)
 
@@ -24,7 +24,7 @@ A favicon is a small icon displayed in the browser tab, bookmarks, and search re
 - Enhances user experience and recognition.
 - Adds a professional touch to your website.
 
-![Favicon](/images/week_3/Why is a Favicon Important.jpg)
+![Why is a Favicon Important](../images/week_3/Why is a Favicon Important.jpg)
 
 
 
@@ -38,7 +38,7 @@ The header is the top section of a webpage, usually containing:
 - Call-to-action buttons (Sign Up, Buy Now)
 - Search bar (if applicable)
 
-![Header](/images/week_3/What is a Header_.jpg)
+![What is a Header_](../images/week_3/What is a Header_.jpg)
 
 
 ### Importance of a Website Header
@@ -58,7 +58,7 @@ The footer is the bottom section of a webpage, often containing:
 - Newsletter signup
 - Copyright information
 
-![Footer](/images/week_3/What is a Footer_.jpg)
+![What is a Footer_](../images/week_3/What is a Footer_.jpg)
 
 
 ### Importance of a Website Footer
@@ -75,11 +75,11 @@ The **footer** is the **bottom section** of a website, usually containing additi
 
 **Go to Astra > Customize > Header Builder**
 
-![Setting up Astra](/images/week_3/SettingUpAstra.jpg)
+![SettingUpAstra](../images/week_3/SettingUpAstra.jpg)
 
 
 ### How to Set-up Footer
 
 **Go to Customize > Click the footer builder**
 
-![Setting up Astra](/images/week_3/SettingUpFooter.jpg)
+![SettingUpFooter](../images/week_3/SettingUpFooter.jpg)

@@ -7,7 +7,7 @@ Influencer marketing has become a powerful component of successful SEO strategie
 
 **Influencer outreach** is the process of connecting with industry influencers, bloggers, and content creators to promote your brand, content, or website. This can involve **guest posts, collaborations, sponsored content, or social media mentions** to increase visibility and drive traffic.
 
-![Influencer Outreach](/images/week_4/Influencer outreach.jpg)
+![Influencer outreach](../images/week_4/Influencer outreach.jpg)
 
 
 ## Why is Influencer Outreach Important for SEO?
@@ -42,7 +42,7 @@ Influencer outreach is a strategic process that requires planning, research, and
 
 ### Step 1: Define Your Goals
 
-![Define Goals](/images/week_4/Define Your Goals.jpg)
+![Define Your Goals](../images/week_4/Define Your Goals.jpg)
 
 
 Before reaching out, determine your specific objective:
@@ -56,7 +56,7 @@ Clear goals will help you identify the right influencers and create appropriate 
 
 ### Step 2: Find the Right Influencers
 
-![Right inlfuencer](/images/week_4/Find the Right Influencers .jpg)
+![Find the Right Influencers](../images/week_4/Find the Right Influencers .jpg)
 
 
 Look for influencers who match your **brand, audience, and niche**.
@@ -91,7 +91,7 @@ Look for influencers who match your **brand, audience, and niche**.
 - Review their past collaborations and content style
 - Identify mutual connections or interests
 
-![Research and Personalize](/images/week_4/Research & Personalize.jpg)
+![Research & Personalize](../images/week_4/Research & Personalize.jpg)
 
 
 Proper research allows you to personalize your approach and demonstrate genuine interest in their work.
@@ -100,7 +100,7 @@ Proper research allows you to personalize your approach and demonstrate genuine 
 
 Reach out via **Email, DMs, or Influencer Platforms.**
 
-![Contact influencer](/images/week_4/Contact the Influencer .jpg)
+![Contact the Influencer](../images/week_4/Contact the Influencer .jpg)
 
 
 **Sample Outreach Email:**
@@ -135,7 +135,7 @@ Best,
 - Content approval process
 - Usage rights and exclusivity terms
 
-![Negotiate](/images/week_4/Negotiate & Set Terms.jpg)
+![Negotiate & Set Terms](../images/week_4/Negotiate & Set Terms.jpg)
 
 
 ## SEO-Specific Influencer Outreach Strategies

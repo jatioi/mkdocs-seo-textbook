@@ -2,7 +2,7 @@
 
 Tracking and analyzing your website's traffic and ranking performance is important for improving SEO strategy. By understanding where your traffic comes from, which pages perform best, and how your competitors rank, you can optimize your website for better results. Below is a detailed breakdown of the key areas to focus on:
 
-![Tracking and analyzing](/images/week_5/Tracking and analyzing.jpg)
+![Tracking and analyzing](../images/week_5/Tracking and analyzing.jpg)
 
 
 ## Traffic Analysis: Identifying Trends & High-Performing Pages

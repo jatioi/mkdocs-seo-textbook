@@ -19,7 +19,7 @@ Internal linking refers to the practice of linking one page of a website to anot
 - A blog post about "SEO Best Practices" links to another article on "Keyword Research Strategies."
 - An e-commerce product page links to a related product or category page.
 
-![Internal Linking](/images/week_3/Internal Linking Important_.jpg)
+![Internal Linking Important_](../images/week_3/Internal Linking Important_.jpg)
 
 ### Best Practices for Internal Linking
 
@@ -44,7 +44,7 @@ An **external link** is a hyperlink that points from one website to a **differen
 
 **Example**: If **CNN.com** links to your blog, that's an inbound external link (backlink) for you.
 
-![What is External Link](/images/week_3/What is an External Link_ .jpg)
+![What is an External Link_](../images/week_3/What is an External Link_ .jpg)
 
 ### Why Are External Links Important?
 
@@ -72,7 +72,7 @@ Slow-loading pages can frustrate users and increase bounce rates. Optimize your 
 
 **Example:** Your website is full of high-resolution images and videos, but you haven't optimized them for the web. As a result, your pages take a long time to load.
 
-![Slow Page Load](/images/week_3/Slow Page Load Speed .jpg)
+![Slow Page Load Speed](../images/week_3/Slow Page Load Speed .jpg)
 
 **Impact:** Visitors may leave your site before it fully loads, leading to a high bounce rate. Search engines also consider page load speed as a ranking factor, so your site's slow speed could harm your rankings.
 
@@ -98,7 +98,7 @@ Meta titles and descriptions are crucial for SEO. Ensure they are accurately fil
 
 **Example:** Your web pages don't have meta titles and descriptions, or the ones you have are not optimized with relevant keywords.
 
-![Missing or Incorrect Meta Tags](/images/week_3/Missing or Incorrect Meta Tags.jpg)
+![Missing or Incorrect Meta Tags](../images/week_3/Missing or Incorrect Meta Tags.jpg)
 
 **Impact:** Search engines use meta tags to understand the content of your pages. Missing or incorrect meta tags can result in lower visibility and click-through rates from search engine results pages (SERPs).
 
@@ -109,4 +109,4 @@ A **404** error (also called "**404 Not Found**") is an **HTTP status code** tha
 - The user t**yped the wrong URL** or clicked on a broken link.
 - The website has **server issues** or temporary downtime.
 
-![404 error](/images/week_3/What is 404 Error_.jpg)
+![What is 404 Error_](../images/week_3/What is 404 Error_.jpg)

@@ -6,7 +6,7 @@ Off-Page SEO refers to all activities performed outside of your website to impro
 
 While On-Page SEO involves optimizing elements within your website, Off-Page SEO leverages external factors to enhance your online presence.
 
-![Off-Page SEO](/images/week_4/w4d1_What is Off-Page SEO.jpg)
+![w4d1_What is Off-Page SEO](../images/week_4/w4d1_What is Off-Page SEO.jpg)
 
 ### Key Components of Off-Page SEO:
 - **Backlink building** – Acquiring quality links from authoritative websites
@@ -20,7 +20,7 @@ While On-Page SEO involves optimizing elements within your website, Off-Page SEO
 ### What is a Backlink?
 A backlink, also known as an inbound link, is a hyperlink from one website to another. Search engines view backlinks as a vote of confidence, signaling that the linked-to content is valuable and authoritative.
 
-![Off-Page SEO](/images/week_4/w4d1_What is a Backlink.jpg)
+![w4d1_What is a Backlink](../images/week_4/w4d1_What is a Backlink.jpg)
 
 
 ### Types of Backlinks
@@ -145,4 +145,4 @@ Local SEO focuses on optimizing your online presence for local searches, helping
 - If you're focusing only on paid ads, you're doing PPC
 - If you're working on both SEO & PPC, you're doing SEM
 
-![Off-Page SEO](/images/week_4/w4d1_PPC is a part of SEM.jpg)
+![w4d1_PPC is a part of SEM](../images/week_4/w4d1_PPC is a part of SEM.jpg)

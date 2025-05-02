@@ -21,7 +21,7 @@ Visit [Google Analytics](https://analytics.google.com/) and set up your account.
 
 ## What is Google Search Console?
 
-Google Search Console (GSC) is a free tool that helps you monitor a website’s search performance and fix issues affecting rankings.
+Google Search Console (GSC) is a free tool that helps you monitor a website's search performance and fix issues affecting rankings.
 
 * **Crawl & Indexing Status** – See if Google can access & index your site
 * **Search Performance** – Track clicks, impressions, CTR, and ranking positions
@@ -44,72 +44,72 @@ Google Analytics helps you track website traffic, user behavior, and conversions
 **Step 1: Create a Google Analytics Account**
 
 1.  Go to [Google Analytics](https://analytics.google.com/) and sign in with your Google account.
-2.  Click “Start Measuring” to create a new account.
+2.  Click "Start Measuring" to create a new account.
 3.  Enter an **Account Name** (e.g., Your Business Name).
 4.  Click **Next** to set up a property.
 
 **Step 2: Set Up a New Property**
 
-1.  Enter a **Property Name** (e.g., “MyWebsite Analytics”).
+1.  Enter a **Property Name** (e.g., "MyWebsite Analytics").
 2.  Choose your **time zone** and **currency**.
 3.  Click **Next** and select your **industry category** & **business size**.
 4.  Click **Create** and accept the terms.
 
 **Step 3: Add Your Domain to Google Analytics**
 
-1.  Choose **“Web”** as your platform.
+1.  Choose **"Web"** as your platform.
 2.  Enter your **Website URL** (e.g., `https://yourwebsite.com`).
-3.  Name your **stream** (e.g., “Your Website Traffic”).
-4.  Click **“Create Stream”** to generate a **Measurement ID (G-XXXXXXX)**.
+3.  Name your **stream** (e.g., "Your Website Traffic").
+4.  Click **"Create Stream"** to generate a **Measurement ID (G-XXXXXXX)**.
 
 **Step 4: Connect Google Analytics to Your Website**
 
 1.  Copy the **Global Site Tag (gtag.js)** from Analytics.
-2.  Go to your website’s **HTML header**.
+2.  Go to your website's **HTML header**.
 3.  Paste the tracking code inside the `<head>` section.
 4.  Save changes & publish your site.
 
 
 **1**
-![Analytics 1](/images/week_3/ANALYTICS 1.jpg)
+![ANALYTICS 1](../images/week_3/ANALYTICS 1.jpg)
 
 **2**
-![Analytics 2](/images/week_3/ANALYTICS 2.jpg)
+![ANALYTICS 2](../images/week_3/ANALYTICS 2.jpg)
 
 **3**
-![Analytics 3](/images/week_3/ANALYTICS 3.jpg)
+![ANALYTICS 3](../images/week_3/ANALYTICS 3.jpg)
 
 **4**
-![Analytics 4](/images/week_3/ANALYTICS 4.jpg)
+![ANALYTICS 4](../images/week_3/ANALYTICS 4.jpg)
 
 **5**
-![Analytics 5](/images/week_3/ANALYTICS 5.jpg)
+![ANALYTICS 5](../images/week_3/ANALYTICS 5.jpg)
 
 **6**
-![Analytics 6](/images/week_3/ANALYTICS 6.jpg)
+![ANALYTICS 6](../images/week_3/ANALYTICS 6.jpg)
 
 **7**
-![Analytics 7](/images/week_3/ANALYTICS 7.jpg)
+![ANALYTICS 7](../images/week_3/ANALYTICS 7.jpg)
 
 **8**
-![Analytics 8](/images/week_3/ANALYTICS 8.jpg)
+![ANALYTICS 8](../images/week_3/ANALYTICS 8.jpg)
 
 
 ## How to Set Up Your Domain in Google Search Console (Step-by-Step Guide)
 
-Google Search Console (GSC) helps you monitor your website’s performance, indexing, and search visibility on Google. Follow these steps to set up your domain in GSC.
+Google Search Console (GSC) helps you monitor your website's performance, indexing, and search visibility on Google. Follow these steps to set up your domain in GSC.
 
 **Step 1: Sign in to Google Search Console**
 
 1.  Go to [Google Search Console](https://search.google.com/search-console/)
-2.  Click **“Start Now”** and sign in with your Google account.
+2.  Click **"Start Now"** and sign in with your Google account.
 
 **Step 2: Add a Property**
 
-1.  Click **“Add Property”**.
+1.  Click **"Add Property"**.
 2.  You have two options:
     * **Domain (Tracks all versions of your domain):** Enter your root domain (e.g., `yourwebsite.com`) and follow the verification steps (usually DNS record verification).
-    * **URL Prefix (Tracks only a specific URL version):** Enter your full website URL (e.g., `https://yourwebsite.com`) and click **“Continue”**. Choose one of the available verification methods (HTML file upload, HTML tag, Google Analytics, Google Tag Manager, DNS record).
+    * **URL Prefix (Tracks only a specific URL version):** Enter your full website URL (e.g., `https://yourwebsite.com`) and click **"Continue"**. Choose one of the available verification methods (HTML file upload, HTML tag, Google Analytics, Google Tag Manager, DNS record).
 
 ## How to Check if a URL is Indexed?
 

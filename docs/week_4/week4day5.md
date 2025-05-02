@@ -11,7 +11,7 @@ For businesses that serve specific geographic areas, Local SEO is critical for r
 
 Local SEO focuses specifically on searches with local intent, such as "restaurants near me" or "plumber in [city name]," and aims to position your business prominently in these results.
 
-![Local Seo](/images/week_4/What is Local SEO_ .jpg)
+![What is Local SEO_](../images/week_4/What is Local SEO_ .jpg)
 
 
 ## Why is Local SEO Important?
@@ -70,7 +70,7 @@ You can manage your profile through the Google Business Profile Manager or at go
 
 Example of Google Business Profile:
 
-![Google business profile](/images/week_4/GOOGLE MY BUSINESS .jpg)
+![GOOGLE MY BUSINESS](../images/week_4/GOOGLE MY BUSINESS .jpg)
 
 You can also watch this video to learn how to set up a Google Business Profile:
 

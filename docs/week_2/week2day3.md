@@ -1,15 +1,15 @@
 # Image SEO (Alt Text, File Size, Naming Conventions)
 
 ## **Why Are Images Important in SEO**
-Images are a crucial component of SEO because they enhance user experience, improve engagement, and provide search engines with context about a webpage’s content. Since search engines like Google cannot "see" images in the way humans do, they rely on text-based descriptions such as alt text, file names, and structured data to interpret visual content. Optimizing images properly can lead to better rankings, increased traffic, and improved accessibility.
+Images are a crucial component of SEO because they enhance user experience, improve engagement, and provide search engines with context about a webpage's content. Since search engines like Google cannot "see" images in the way humans do, they rely on text-based descriptions such as alt text, file names, and structured data to interpret visual content. Optimizing images properly can lead to better rankings, increased traffic, and improved accessibility.
 
 ## **Alt Text (Alternative Text)**
 - Alt text is a brief description of an image that helps search engines and screen readers understand the image's content. It plays a crucial role in accessibility, ensuring visually impaired users can interpret visual elements using screen readers. Additionally, well-crafted alt text can improve image search rankings and overall page SEO.
 - Include relevant keywords naturally.
 - Avoid generic alt text like `"image123.jpg"` or `"SEO graphic"`.
 
-### **Here’s the guidelines:**
-- Be Descriptive & Concise – Clearly describe the image’s content in a few words.
+### **Here's the guidelines:**
+- Be Descriptive & Concise – Clearly describe the image's content in a few words.
 - Include Relevant Keywords Naturally – Use SEO-friendly keywords without keyword stuffing.
 - Avoid Generic or Redundant Phrases – Avoid using text like "image of..." or "picture of..." unless necessary.
 - Do Not Use File Names as Alt Text – Descriptive alt text should be written separately from the file name.
@@ -19,7 +19,7 @@ Images are a crucial component of SEO because they enhance user experience, impr
 
 `<img src="on-page-seo-checklist.jpg" alt="On-Page SEO checklist for better website ranking">` 
 
-![Alt Text](/images/week_2/Alt Text (Alternative Text).jpg)
+![Alt Text (Alternative Text)](../images/week_2/Alt Text (Alternative Text).jpg)
 
 ## **File Size Optimization**
 Optimizing image file size is critical for website performance, user experience, and SEO. Large image files slow down page load speed, leading to higher bounce rates and lower rankings.
@@ -38,7 +38,7 @@ Optimizing image file size is critical for website performance, user experience,
 - Standard Web Images: **<100KB**
 - High-Resolution Images: **<200KB** (only when necessary)
 
-![File Size Optimization](/images/week_2/File Size Optimization .jpg)
+![File Size Optimization](../images/week_2/File Size Optimization .jpg)
 
 #### **Image Naming Conventions**
 Using clear and descriptive image file names helps search engines understand the content of the image, improving its discoverability in image search results.
@@ -57,10 +57,10 @@ Using clear and descriptive image file names helps search engines understand the
 - ❌ "img001.png"         
 - ❌ "seo_best_practices.png"
 
-![Image Naming Conventions](/images/week_2/Image Naming Conventions.jpg)
+![Image Naming Conventions](../images/week_2/Image Naming Conventions.jpg)
 
 
-### **What Happens If You Don’t Compress Images?**
+### **What Happens If You Don't Compress Images?**
 Failing to optimize images can have serious negative effects on SEO and user experience:
 
 ### **Consequences of Unoptimized Images:**

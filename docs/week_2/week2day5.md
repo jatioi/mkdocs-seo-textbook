@@ -18,7 +18,7 @@ There are three possible placements for the website/brand logo in images:
 - Place the logo in the top left corner of the image.
 - Ensure consistent logo size across all images.
 
-![Option A](/images/week_2/Option A.jpg)
+![Option A](../images/week_2/Option A.jpg)
 
 **Option B:**
 
@@ -26,7 +26,7 @@ There are three possible placements for the website/brand logo in images:
 - Add the website address in the bottom right corner.
 - Ensure consistent logo size across all images.
 
-![Option B](/images/week_2/Option B.jpg)
+![Option B](../images/week_2/Option B.jpg)
 
 
 **Option C:**
@@ -35,7 +35,7 @@ There are three possible placements for the website/brand logo in images:
 - Add the website address at the bottom of the image, repeated as a strip.
 - Ensure consistent logo size across all images.
 
-![Option C](/images/week_2/Option C.jpg)
+![Option C](../images/week_2/Option C.jpg)
 
 
 ### **Step 3: Define Icons and Graphics**
@@ -50,6 +50,6 @@ There are three possible placements for the website/brand logo in images:
 
 ### **Step 5: Design the Thumbnail Image**
 1. For page posts and category posts, the first image should be the featured image.
-2. The caption for the featured image should be taken from the post’s title.
+2. The caption for the featured image should be taken from the post's title.
 
 

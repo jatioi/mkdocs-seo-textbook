@@ -7,7 +7,7 @@ Competitor analysis helps you understand what keywords, content, and strategies 
 - Search your main keywords on Google and note the top-ranking websites.
 - Use tools like Ahrefs, SEMrush, or Ubersuggest to find your SEO competitors.
 
-![Identify Your Competitors](/images/week_1/Identify Your Competitors.jpg)
+![Identify Your Competitors](../images/week_1/Identify Your Competitors.jpg)
 
 
 **Example**
@@ -32,7 +32,7 @@ Find the keywords your competitors rank for and identify gaps & opportunities.
 
 **Example**
 
-If a competitor’s blog post on “SEO trends 2024” ranks well but lacks videos or case studies, you can create a better version with more value.
+If a competitor's blog post on "SEO trends 2024" ranks well but lacks videos or case studies, you can create a better version with more value.
 
 ### **Step 4: Analyze Backlinks (Off-Page SEO)**
 
