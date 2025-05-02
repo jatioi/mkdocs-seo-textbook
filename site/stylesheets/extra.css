@@ -1,0 +1,131 @@
+/* Font imports */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600&display=swap');
+
+/* Smooth transitions */
+.md-typeset {
+    transition: all 0.3s ease-in-out;
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Better spacing and typography */
+.md-typeset h1 {
+    margin: 1.5em 0 0.5em;
+    font-weight: 600;
+    color: var(--md-primary-fg-color);
+    font-family: 'Rubik', sans-serif;
+}
+
+.md-typeset h2 {
+    margin: 1.2em 0 0.5em;
+    font-weight: 500;
+    color: var(--md-primary-fg-color);
+    font-family: 'Rubik', sans-serif;
+}
+
+/* Improved tables */
+.md-typeset table:not([class]) {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    font-weight: 600;
+}
+
+/* Code blocks */
+.md-typeset code {
+    font-family: 'Source Code Variable', monospace;
+}
+
+.md-typeset pre {
+    font-family: 'Source Code Variable', monospace;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Improved images */
+.md-typeset img {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.md-typeset img:hover {
+    transform: scale(1.02);
+}
+
+/* Better navigation */
+.md-nav__link {
+    transition: color 0.3s ease;
+}
+
+.md-nav__link:hover {
+    color: var(--md-accent-fg-color);
+}
+
+/* Improved buttons */
+.md-button {
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.md-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Better tabs */
+.md-tabs {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Improved search */
+.md-search__input {
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+.md-search__input:hover {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Better admonitions */
+.md-typeset .admonition {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Improved lists */
+.md-typeset ul li,
+.md-typeset ol li {
+    margin-bottom: 0.5em;
+}
+
+/* Better blockquotes */
+.md-typeset blockquote {
+    border-left: 4px solid var(--md-primary-fg-color);
+    padding-left: 1em;
+    border-radius: 4px;
+    background-color: var(--md-default-bg-color--light);
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Better mobile experience */
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title {
+        background-color: var(--md-primary-fg-color);
+        color: white;
+    }
+    
+    .md-nav--primary .md-nav__title ~ .md-nav__list {
+        background-color: var(--md-default-bg-color);
+    }
+} 
