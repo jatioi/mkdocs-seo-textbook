@@ -6,31 +6,37 @@ theme:
   favicon: images/koda_logo.svg
   palette:
     - scheme: default
-      primary: black
-      accent: blue
+      primary: indigo
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: white
-      accent: yellow
+      primary: indigo
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      font:
-        header: Rubik
-        text: Source Code Variable
-      custom_dir: docs
-      extra_css:
-        - extra.css
-
-
-
+  font:
+    text: Rubik
+    code: "Source Code Variable"
   features:
-     - search.highlight
-     - content.code.copy
-     - content.tabs.link
-
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - content.tabs.tabs
+    - content.code.annotate
+    - content.tooltips
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+  custom_dir: docs
+  extra_css:
+    - stylesheets/extra.css
 
   markdown_extensions:
     - def_list
@@ -50,10 +56,11 @@ theme:
 
 
 nav:
-#  - Home: index.md
+  - Home: standard.md
   - About This Book: about-this-book.md
   - What to expect?: what-to-expect.md
   - Curriculum: curriculum.md
+
 #  - Fundamentals: fundamental.md
   - Week 1:
     - What is SEO?: week_1/week1day1.md

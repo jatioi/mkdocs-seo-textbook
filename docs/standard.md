@@ -145,4 +145,4 @@ This policy has been prepared by **KodaCamp Bootcamp** to ensure and provide gui
 
 ## 6. Acknowledgment and Agreement
 
-By enrolling in this bootcamp, **students acknowledge and agree** to comply with the attendance, performance, and project standards outlined in this document.
+By enrolling in this bootcamp, **students acknowledge and agree** to comply with the attendance, performance, and project standards outlined in this document. 

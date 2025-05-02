@@ -1,17 +1,39 @@
 # **About This Book**
 
-![Seo Index](images/seo_index.png).
+![SEO Index](../images/seo_index.png)
 
+This SEO textbook is designed to provide comprehensive knowledge and practical skills in Search Engine Optimization. Whether you're a beginner or looking to enhance your SEO expertise, this book will guide you through the essential concepts and techniques.
 
-## **Before This Class Starts**
+## **What You'll Learn**
 
-**<p> Good day our new classmate! </p>**
+- Fundamental SEO principles and strategies
+- On-page and off-page optimization techniques
+- Keyword research and implementation
+- Technical SEO best practices
+- Content creation and optimization
+- Link building strategies
+- Analytics and performance tracking
+- Portfolio development
 
-<p> You must be extremely excited for the coming lessons that we prepared for you to practice our SEO Training Course. But before all the courses start, let us introduce you briefly what you may learn from this. <p>
+## **How to Use This Book**
 
-This book should be your first fundamental SEO Course, and no worries, unlike other learning resources which are hard to learn, the main purpose that we write this book is beginners friendly and teaching you how to do it step by step. 
+Each chapter builds upon the previous one, providing a structured learning path. The content includes:
 
+- Clear explanations of SEO concepts
+- Step-by-step guides for implementation
+- Practical examples and case studies
+- Interactive exercises and quizzes
+- Real-world applications
 
+## **Course Structure**
 
+The book is organized into 6 weeks of intensive learning:
 
-![Screenshot 2025-03-10 at 9.56.58 AM.png](../../../../../../../var/folders/dg/0pmy2zhd63zf2t6bcdzgwjt40000gn/T/TemporaryItems/NSIRD_screencaptureui_Bxau1w/Screenshot%202025-03-10%20at%209.56.58%E2%80%AFAM.png)
+1. **Week 1**: SEO Fundamentals
+2. **Week 2**: On-Page SEO & Content Creation
+3. **Week 3**: Technical SEO & Analytics
+4. **Week 4**: Off-Page SEO & Link Building
+5. **Week 5**: Advanced SEO & Performance Tracking
+6. **Week 6**: Portfolio Development
+
+Each week includes daily lessons, practical exercises, and assessments to ensure comprehensive understanding and skill development.
