@@ -185,7 +185,7 @@ Most hosting providers have 1-click WordPress installation:
 * **Install SEO Plugin**  
    Go to: Plugins >  Search for "Rank Math"
 
-![Go to plugin install rank math](../images/week_3/Go to plugin install rank math.jpg)
+![Go to plugin install rank math](../images/week_3/Go to plugin Install rank math.jpg)
 
 
 * **Choose a Theme**  

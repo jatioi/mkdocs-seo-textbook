@@ -45,12 +45,17 @@ Keywords are the backbone of SEO, and understanding the difference between short
 **Example:** "Best running shoes for flat feet," "SEO tips for small businesses"
 
 ### **Pros of Long-Tail Keywords:**
+
  **Low Competition –** Easier to rank on Google.
- **Higher Conversion Rate** – Targets users with specific intent (buying, learning, etc.).
+
+ **Higher Conversion Rate** – Targets users with specific intent (buying, learning, etc.)
+
  **Better Audience Targeting** – Helps niche websites attract the right visitors.
 
 ### **Cons of Long-Tail Keywords:**
+
 **Lower Search Volume** – Fewer people search for long-tail keywords.
+
 **Takes Time to Research** – Requires proper keyword research to find effective long-tail terms.
  
 

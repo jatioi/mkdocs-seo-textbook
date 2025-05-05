@@ -36,10 +36,13 @@ When a user searches for something, search engines rank the indexed pages based 
 
 Google's algorithm is a set of rules that determines how to rank websites in search results. It's a complex system that uses many different algorithms, and it's constantly changing.
 
-Keyword relevance – Does the page match the search query?
-Backlinks – Are other websites linking to it?
-Page speed & mobile-friendliness – Does it load fast and work on phones?
-Freshness – Is the content recent and updated?
+**Keyword relevance** – Does the page match the search query?
+
+**Backlinks** – Are other websites linking to it?
+
+**Page speed & mobile-friendliness** – Does it load fast and work on phones?
+
+**Freshness** – Is the content recent and updated?
 
 ### Why its important?
 Staying updated with Google's algorithm changes helps SEO professionals and website owners optimize content and avoid penalties, ensuring better rankings and visibility. 
@@ -90,8 +93,9 @@ User intent, also known as search intent, refers to the reason behind a user's s
  - Include pros & cons, expert opinions, and customer reviews.
 
 
-3. Navigational Intent 
+### **3. Navigational Intent**
 **What It Means:**
+
 - The user is searching for a specific brand, website, or product page.
 - They already know what they want and just need to find the right page.
 

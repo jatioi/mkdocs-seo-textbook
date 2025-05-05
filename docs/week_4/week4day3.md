@@ -1,7 +1,5 @@
 # Social Media Signals in SEO
 
-## Introduction
-Social media plays an increasingly important role in search engine optimization, even though its impact is largely indirect. Understanding how social signals influence your SEO performance can help you develop a more comprehensive digital marketing strategy.
 
 ## What Are Social Media Signals in SEO?
 
