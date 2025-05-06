@@ -1,5 +1,3 @@
-
-
 ## 1. What is Off-Page SEO?
 
 Off-Page SEO refers to all activities performed outside of your website to improve its search engine rankings and authority. It focuses on building trust, relevance, and credibility through external signals such as backlinks, social media engagement, and brand mentions.
