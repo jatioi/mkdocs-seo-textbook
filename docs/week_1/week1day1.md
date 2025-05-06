@@ -1,15 +1,3 @@
-### Topics we will cover in this seo class
-- What is SEO and why is it important?
-- How do search engines work? (Google bots, crawling, indexing, ranking)
-- Types of SEO:
-- On-Page SEO (Optimizing content, titles, URLs)
-- Off-Page SEO (Backlinks, social signals, influencer outreach)
-- Technical SEO (Site speed, mobile-friendliness, structured data)
-- Keyword Research & Content Creation
-- SEO Tools: Google Analytics, Google Search Console, Keywords research tool
-
-
---------
 # Introduction of SEO & Its Importance
 
 ## **What is SEO?** 
@@ -162,7 +150,5 @@ Example:
 Financial Consulting Firm: A financial company started blogging about tax-saving tips and optimizing for search queries like "how to save taxes legally". Their website started ranking on Google, increasing client inquiries by 60%.
 
 
-#### Activity for today
-    https://docs.google.com/
-    document/d/1bDLkMDx2c-bHjFXrlSDbOxMK2q6a-6ld7Vm20nfpqto/edit?tab=t.0
+
 
