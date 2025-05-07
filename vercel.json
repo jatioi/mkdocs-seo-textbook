@@ -1,11 +1,19 @@
 {
-  "buildCommand": "mkdocs build",
-  "outputDirectory": "site",
-  "framework": null,
-  "rewrites": [
+  "version": 2,
+  "builds": [
     {
-      "source": "/(.*)",
-      "destination": "/$1"
+      "src": "mkdocs.yml",
+      "use": "@vercel/static-build",
+      "config": {
+        "buildCommand": "pip install -r requirements.txt && mkdocs build",
+        "outputDirectory": "site"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
     }
   ]
 } 
