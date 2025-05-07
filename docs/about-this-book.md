@@ -1,6 +1,6 @@
 # **About This Book**
 
-![SEO Index](../images/seo_index.png)
+![SEO Index](images/seo_index.png)
 
 This SEO textbook is designed to provide comprehensive knowledge and practical skills in Search Engine Optimization. Whether you're a beginner or looking to enhance your SEO expertise, this book will guide you through the essential concepts and techniques.
 
