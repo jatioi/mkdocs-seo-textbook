@@ -45,7 +45,7 @@ Click "Share" in the top right corner.
 Select "Download" and choose a file format (PNG, JPG, PDF, etc.).
 Click "Download", and your edited image is ready!
 
-![Save & Download your Image](../images/week_2/Save & Download your Image.jpg)
+![Save & Download your Image](../images/week_2/Save & Download Your Image.jpg)
 
 
 
