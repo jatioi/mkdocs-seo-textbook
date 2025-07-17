@@ -10,12 +10,16 @@ Search engines like Google, Bing, and Yahoo help users find relevant information
 
 ### **Crawling**
 
-- Crawling is the process by which search engine bots or spiders scan your website's web pages to determine their content and relevance.
+Crawling is the process by which search engine bots or spiders scan your website's web pages to determine their content and relevance. These bots follow links from one page to another, collecting information about websites.
  
 These bots follow links from one page to another, collecting information about websites.
-Why is crawling important?
 
-Crawling is essential because it enables search engines to understand your website's content and relevance. If a web page isn't crawled, it won't appear in search engine results pages, making it difficult for potential users to find you.
+![crawling](../images/week_1/crawling.jpg)
+
+
+**Why is crawling important?**
+
+Crawling is essential because it enables search engines to understand your website’s content and relevance. If a web page isn’t crawled, it won’t appear in search engine results pages, making it difficult for potential users to find you.
 
 
 

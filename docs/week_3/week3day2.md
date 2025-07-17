@@ -33,6 +33,7 @@ A favicon is a small icon displayed in the browser tab, bookmarks, and search re
 ### What is a Header?
 
 The header is the top section of a webpage, usually containing:
+
 - Website logo & branding
 - Navigation menu (Home, About, Services, Contact)
 - Call-to-action buttons (Sign Up, Buy Now)
@@ -52,6 +53,7 @@ The header is the top section of a website, usually containing the logo, navigat
 ### What is a Footer?
 
 The footer is the bottom section of a webpage, often containing:
+
 - Contact details (phone, email, address)
 - Important links (Privacy Policy, Terms of Service, Sitemap)
 - Social media links
@@ -80,6 +82,14 @@ The **footer** is the **bottom section** of a website, usually containing additi
 
 ### How to Set-up Footer
 
-**Go to Customize > Click the footer builder**
+**Go to appearance and click the customize**
 
-![SettingUpFooter](../images/week_3/SettingUpFooter.jpg)
+**look for header builder and footer builder**
+
+![footer 1](../images/week_3/footer1.png)
+![footer 2](../images/week_3/footer2.png)
+
+### Plugins that we use for Header and Footer
+#### Ultimate add-ons for elementor
+
+![plugin](../images/week_3/plugin.png)

@@ -93,6 +93,11 @@ Web hosting is like renting a space for your store in a shopping mall:
 - **Web Hosting = The Store Space**  
   Just like a mall rents out physical space for shops, a web hosting provider (like Bluehost, GoDaddy, or SiteGround) rents out server space for your website.
 
+![Blue Host](../images/week_3/BlueHost.png)
+![GoDaddy](../images/week_3/GoDaddy.png)
+![SiteGround](../images/week_3/SiteGround.png)
+
+  
 - **Domain Name = Store Address**  
   Your website needs an address so people can find it (e.g., `www.myclothingstore.com`), just like a store has a physical address.
 
@@ -123,6 +128,25 @@ Purchasing a domain is an essential step in building your online presence. Here 
 WordPress is the most popular content management system (CMS) used to build and manage websites. It powers over 43% of all websites on the internet. WordPress allows users to create websites without coding, making it ideal for beginners and professionals.
 
 ![What is WordPress](../images/week_3/What is WordPress_.jpg)
+
+# **What is a Plugin in Wordpress?**
+
+An SEO plugin is a tool you install on your website (especially WordPress) to help you optimize your site for search engines like Google.
+
+Elementor
+- Drag-and-drop builder with tons of widgets/elements.
+- Elements: Text, images, icons, carousels, buttons, forms, etc.
+- Free and Pro version available.
+
+WPBakery Page Builder
+- Visual drag-and-drop editor used by many premium themes.
+- Elements: Grids, buttons, maps, sliders, and more.
+
+Beaver Builder
+- Drag-and-drop page builder.
+- Elements: Content sliders, accordions, buttons, and forms.
+- Great for developers and agencies.
+
 
 ### Key Features of WordPress
 
@@ -182,6 +206,7 @@ Most hosting providers have 1-click WordPress installation:
 ![Settings _ Reading _ select Static page](../images/week_3/Settings _ Reading _ select Static page.jpg)
 
 
+
 * **Install SEO Plugin**  
    Go to: Plugins >  Search for "Rank Math"
 
@@ -198,3 +223,6 @@ Most hosting providers have 1-click WordPress installation:
    Navigate to Pages section to add and edit your content
 
 ![AddContentPage](../images/week_3/AddContentPage.jpg)
+
+
+

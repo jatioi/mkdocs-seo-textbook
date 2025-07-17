@@ -110,3 +110,13 @@ A **404** error (also called "**404 Not Found**") is an **HTTP status code** tha
 - The website has **server issues** or temporary downtime.
 
 ![What is 404 Error_](../images/week_3/What is 404 Error_.jpg)
+
+## Tools on how to fix errors:
+- Screaming frog 
+- Google PageSpeed Insights 
+- Yoast SEO / Rank Math (WordPress Plugins)
+
+_Screaming Frog_
+![Fix](../images/week_3/fix.png)
+
+
