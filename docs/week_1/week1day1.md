@@ -115,7 +115,7 @@ Technical SEO focuses on the backend of the website, ensuring it is easily crawl
 
 **Structured Data (Schema Markup)** - It helps search engines better understand your website's content. By adding structured data, you can provide specific details about your content, such as products, reviews, events, or articles.
 
-![schema](../images/week_1/schema.jpg)
+![schema](../images/week_1/Schema_Markup.png)
 
 **Fixing Broken Links & Errors** - Errors, such as 404 pages or server issues, can signal to search engines that your site isn't well-maintained, which can lower your rankings.
 
@@ -150,5 +150,12 @@ Example:
 Financial Consulting Firm: A financial company started blogging about tax-saving tips and optimizing for search queries like "how to save taxes legally". Their website started ranking on Google, increasing client inquiries by 60%.
 
 
+-----
 
+![Godaddy](../images/week_1/godaddy.jpg)
 
+## **FRIENDLY REMINDER**
+
+Please be reminded that you are responsible for purchasing your own domain for the project. The cost is minimal, typically less than a (100) hundred pesos. However, if you prefer not to acquire a new domain, you may request to use one of our existing domains as an alternative.
+
+Students who wish to use one of the existing domains provided, please be advised to consult your instructor for approval. Likewise, those who intend to purchase your own domain must also coordinate with your instructor, as they are responsible for providing guidance regarding the billing process and specification of the appropriate domain to acquire.
