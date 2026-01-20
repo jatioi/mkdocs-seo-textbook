@@ -6,6 +6,6 @@ This repository serves as the single source of truth for all lessons, standards,
 ## License
 
 This project is licensed under the MIT License.  
-Copyright © 2026 Jathnielle (@KodaCamp).
+Copyright © 2026 Jatioi
 
 See the [LICENSE](LICENSE) file for full details.
